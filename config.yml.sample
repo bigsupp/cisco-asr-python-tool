@@ -1,0 +1,7 @@
+asr:
+  device1:
+    ip: "1.1.1.1"
+    username: "myuser1"
+  device2:
+    ip: "1.1.1.2"
+    username: "myuser2"
