@@ -78,7 +78,7 @@ if __name__ == '__main__':
   if len(sys.argv) < 3:
     printErrorExit("insufficient arguments\n", exitnow=False)
     print('Usage:')
-    print('  python asrtool.py <device name> <command> <command option>\n')
+    print('  python asr.py <device name> <command> <command option>\n')
     print('Device name:')
     print('  asr1')
     print('  asr2')
